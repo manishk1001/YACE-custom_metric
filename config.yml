@@ -9,5 +9,5 @@ customNamespace:
       - name: FunctionSuccess
         statistics:
           - Sum
-        period: 300
+        period: 10
         length: 300
