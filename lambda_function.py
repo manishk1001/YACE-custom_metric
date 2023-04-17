@@ -12,7 +12,7 @@ def lambda_handler(event, context):
     try:
         sample()
     except:
-        metric_value = 2
+        metric_value = 0
     else:
         metric_value = 1
         
